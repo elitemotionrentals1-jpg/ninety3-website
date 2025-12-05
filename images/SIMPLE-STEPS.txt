@@ -1,0 +1,52 @@
+═══════════════════════════════════════════════════════════════
+  HOW TO ADD YOUR IMAGES - 3 EASY METHODS
+═══════════════════════════════════════════════════════════════
+
+METHOD 1: DRAG & DROP (EASIEST!)
+─────────────────────────────────
+1. Open Finder on your Mac
+2. Find your image files (logo, photos, etc.)
+3. Drag them into this folder
+4. Rename them to match these exact names:
+   
+   ✓ logo.png (or logo.jpg)
+   ✓ person-green-tracksuit.jpg
+   ✓ black-sentizero-tracksuit.jpg
+   ✓ black-sentizero-hoodie.jpg
+   ✓ black-sentizero-pants.jpg
+
+METHOD 2: FROM YOUR CODE EDITOR
+─────────────────────────────────
+1. Right-click on this "images" folder
+2. Click "Reveal in Finder" or "Open in Finder"
+3. Drag your images into the Finder window
+4. Rename them to match the names above
+
+METHOD 3: USING TERMINAL
+─────────────────────────────────
+Open Terminal and type:
+
+cd "/Users/djnino/ninety3-website/images"
+
+Then copy your images (replace paths with your actual files):
+cp ~/Downloads/your-logo.png ./logo.png
+cp ~/Downloads/your-photo.jpg ./person-green-tracksuit.jpg
+(etc...)
+
+═══════════════════════════════════════════════════════════════
+AFTER ADDING IMAGES:
+═══════════════════════════════════════════════════════════════
+
+To upload them to GitHub, open Terminal and run:
+
+cd "/Users/djnino/ninety3-website"
+git add images/
+git commit -m "Add brand images"
+git push
+
+═══════════════════════════════════════════════════════════════
+
+🎯 TIP: Just drag your images here and rename them!
+    File names must match EXACTLY (case-sensitive)
+
+═══════════════════════════════════════════════════════════════
