@@ -1,0 +1,48 @@
+═══════════════════════════════════════════════════════════════
+  🔗 YOUR NINETY 3 WEBSITE LINKS
+═══════════════════════════════════════════════════════════════
+
+📦 GITHUB REPOSITORY:
+───────────────────────────────────────────────────────────────
+https://github.com/elitemotionrentals1-jpg/ninety3-website
+
+This is where all your website code lives!
+
+
+📂 VIEW FILES ON GITHUB:
+───────────────────────────────────────────────────────────────
+Homepage: 
+https://github.com/elitemotionrentals1-jpg/ninety3-website/blob/main/index.html
+
+Products Page:
+https://github.com/elitemotionrentals1-jpg/ninety3-website/blob/main/products.html
+
+
+🌐 DEPLOY YOUR WEBSITE (Make it Live):
+───────────────────────────────────────────────────────────────
+
+After you deploy, your website will have a live URL like:
+https://ninety3-website.vercel.app (or similar)
+
+To deploy:
+1. Go to: https://vercel.com
+2. Sign in with GitHub
+3. Import "ninety3-website" repository
+4. Click "Deploy"
+5. Get your live website link! 🎉
+
+
+📍 LOCAL FILES ON YOUR COMPUTER:
+───────────────────────────────────────────────────────────────
+/Users/djnino/ninety3-website/
+
+
+═══════════════════════════════════════════════════════════════
+
+🚀 QUICK DEPLOY:
+────────────────
+1. Push images: cd "/Users/djnino/ninety3-website" && git add images/ && git commit -m "Add images" && git push
+2. Deploy: Go to vercel.com → Import repository → Deploy
+
+═══════════════════════════════════════════════════════════════
+
